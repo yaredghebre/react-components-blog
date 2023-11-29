@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react';
 
 const Header = () => {
   return (
     <div>
-      <nav className="w-full bg-blue-500 px-11 flex justify-center items-center h-20">
-        <ul className="w-full flex justify-between items-center">
+      <nav className="flex h-20 w-full items-center justify-center bg-blue-500 px-11">
+        <ul className="flex w-full items-center justify-between">
           <li>
             <a href="">Home</a>
           </li>
